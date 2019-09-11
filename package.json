@@ -1,0 +1,26 @@
+{
+  "name": "jenkinsapi",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duonghx2398/jenkinsapi.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Hoang Xuan Duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duonghx2398/jenkinsapi/issues"
+  },
+  "homepage": "https://github.com/duonghx2398/jenkinsapi#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
